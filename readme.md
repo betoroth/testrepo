@@ -1,2 +1,2 @@
 # Test Repository
-This is just an empty test repository
+This is just an empty test repository.
